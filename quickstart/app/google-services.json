@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205046056523",
+    "firebase_url": "https://tablet-banos.firebaseio.com",
+    "project_id": "tablet-banos",
+    "storage_bucket": "tablet-banos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205046056523:android:80bac124718fcf77",
+        "android_client_info": {
+          "package_name": "com.example.quickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205046056523-dh8tklej51kkhg8pbcjk48v4evbrsksu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjzLczyYEjFNIG-WbdyuuFlwSCdOiS-yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205046056523-dh8tklej51kkhg8pbcjk48v4evbrsksu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
